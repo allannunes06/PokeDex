@@ -1,6 +1,8 @@
-### PokeDex® <img src="https://assets.pokemon.com/static2/_ui/img/favicon.ico" />
+### <img src="https://assets.pokemon.com/static2/_ui/img/favicon.ico" /> PokeDex®
 
->Pokedex listado com todos os 898 Pokemons
+>Pokedex listado com todos os 898 Pokemons existentes
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png" />
 
 
 O projeto foi finalizado utilizando as seguintes tecnologias:
